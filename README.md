@@ -1,0 +1,1 @@
+This is my first Git project. Learning git with The Odin Project 
